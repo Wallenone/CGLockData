@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name                = "CGLockData"
-s.version             = "0.0.2"
+s.version             = "0.0.3"
 s.summary             = '自己缝状的智能门锁的公共库'
 s.license             = 'www.baidu.com'
 s.author              = { "wallen" => "wallenone@sina.cn" }
