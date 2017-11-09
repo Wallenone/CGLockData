@@ -1,29 +1,16 @@
-# CGLockData
+## 当前最新版本号为 v3.0.0
+* 对应支持的MOB各SDK版本列表
+* ShareSDK  v4.0.0及以上
+* ShareREC  v2.0.0及以上
+* MobLink   v2.0.0及以上
+* SMSSDK    v3.0.0及以上
+* BBSSDK    v1.5.0及以上
+* MobApi    v2.0.0及以上
 
-[![CI Status](http://img.shields.io/travis/wanjiehuizhaofang/CGLockData.svg?style=flat)](https://travis-ci.org/wanjiehuizhaofang/CGLockData)
-[![Version](https://img.shields.io/cocoapods/v/CGLockData.svg?style=flat)](http://cocoapods.org/pods/CGLockData)
-[![License](https://img.shields.io/cocoapods/l/CGLockData.svg?style=flat)](http://cocoapods.org/pods/CGLockData)
-[![Platform](https://img.shields.io/cocoapods/p/CGLockData.svg?style=flat)](http://cocoapods.org/pods/CGLockData)
+## 旧版SDK请使用 v2.2.19
 
-## Example
+## 更新日志
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+- #### 3.0.5
 
-## Requirements
-
-## Installation
-
-CGLockData is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'CGLockData'
-```
-
-## Author
-
-wanjiehuizhaofang, wanjie@huizhaofang.com
-
-## License
-
-CGLockData is available under the MIT license. See the LICENSE file for more info.
+解决第三方地图应用无法回调问题
