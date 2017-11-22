@@ -1,6 +1,0 @@
-framework module LLBluetooth {
-  umbrella header "LLBluetooth-umbrella.h"
-
-  export *
-  module * { export * }
-}

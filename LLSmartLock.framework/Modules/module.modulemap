@@ -1,6 +1,0 @@
-framework module LLSmartLock {
-  umbrella header "LLSmartLock.h"
-
-  export *
-  module * { export * }
-}
